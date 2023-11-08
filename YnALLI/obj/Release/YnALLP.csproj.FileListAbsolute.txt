@@ -1,0 +1,11 @@
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\bin\Release\YnALLP.exe.config
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\bin\Release\YnALLP.exe
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\bin\Release\YnALLP.pdb
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.csproj.AssemblyReference.cache
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.csproj.SuggestedBindingRedirects.cache
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.Form1.resources
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.Properties.Resources.resources
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.csproj.GenerateResource.cache
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.csproj.CoreCompileInputs.cache
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.exe
+J:\Users\Ike\Documents\TSL Enourmous Earth\YnALLP\YnALLP\obj\Release\YnALLP.pdb
